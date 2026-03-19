@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+*.env
+
+# Model weights / large ML files
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.joblib
+*.pickle
+*.pkl
+*.npy
+*.npz
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Dataset or large generated files
+dataset/
+data/
+*.csv
+*.mp3
+*.wav
+
+# VSCode settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
